@@ -1,2 +1,2 @@
-# theme-jsavanzado
-Theme de prueba para el repositorio de WP
+# Theme de prueba para Wordpress
+Theme de prueba para el repositorio de WP. Ejercicio académico.
